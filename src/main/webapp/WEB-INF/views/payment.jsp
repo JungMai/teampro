@@ -39,7 +39,7 @@
 	</tr>
 </table>
 <br /><br />&nbsp;&nbsp;<button>결제하기</button>
-수정
+
 
 
 </body>
