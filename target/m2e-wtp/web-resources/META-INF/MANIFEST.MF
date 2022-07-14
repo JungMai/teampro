@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: kkcch
+=======
+Built-By: atos
+>>>>>>> bc6f8bdf232ab4538249fdd0186605964e529200
 Build-Jdk: 11.0.13
 Created-By: Maven Integration for Eclipse
 
