@@ -9,6 +9,7 @@
 <link rel="stylesheet" href="resources/css/style.css" />
 </head>
 <body>
+<<<<<<< HEAD
 <h3 class="main">예약 페이지 </h3>
 	<b>예약자정보</b> <br /> <br />
 	예약자 이름 <br />
@@ -42,6 +43,8 @@
 <br /><br />&nbsp;&nbsp;<button>결제하기</button>
 
 
+=======
+>>>>>>> 8bf2a1c60abd8305647c913cda79368cf40833e3
 
 </body>
 </html>
