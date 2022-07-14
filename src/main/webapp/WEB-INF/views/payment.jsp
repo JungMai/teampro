@@ -6,16 +6,17 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<link rel="stylesheet" href="resources/css/style.css" />
 </head>
 <body>
-<h3>예약 페이지 </h3>
+<h3 class="main">예약 페이지 </h3>
 	<b>예약자정보</b> <br /> <br />
 	예약자 이름 <br />
 	<input type="text" value="홍길동" /> <br /> <br />
 	휴대폰 번호 <br />
 	<input type="text" value="010-1234-1234" /> <br /> <br />
 	숙소정보
-<table border-collapse:collapse style="padding: 3px; margin: 5px;">
+<table class="hotel">
 	<tr>
 		<td>숙소 이름</td>
 		<td>신라호텔</td>
@@ -30,7 +31,7 @@
 	</tr>
 </table>
 	결제방법
-<table border-collapse:collapse style="padding: 3px; margin: 5px;">
+<table class="pay">
 	<tr>
 		<td><input type="radio" />신용카드</td>
 		<td><input type="radio" />토스</td>

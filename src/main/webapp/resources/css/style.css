@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+.main{
+	text-align: center;
+}
+.hotel{
+/*  border-collapse:collapse; */
+  padding: 5px;
+   margin: 5px;	
+}
+.pay{
+	padding: 5px;
+	margin: 5px;
+}

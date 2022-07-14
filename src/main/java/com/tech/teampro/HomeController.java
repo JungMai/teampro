@@ -63,9 +63,9 @@ public class HomeController {
 	public String qna() {
 		return "QnA";
 	}
-	@RequestMapping("/hotel")
+	@RequestMapping("/hotel/hotel_list")
 	public String hotel() {
-		return "hotel";
+		return "hotel/hotel_list";
 	}
 	@RequestMapping("/motel")
 	public String motel() {
@@ -82,6 +82,10 @@ public class HomeController {
 	@RequestMapping("/camping")
 	public String camping() {
 		return "camping";
+	}
+	@RequestMapping("/lodgedup")
+	public String lodgedup() {
+		return "lodgedup";
 	}
 	
 }
