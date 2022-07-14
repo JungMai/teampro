@@ -30,6 +30,14 @@
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 	
+<<<<<<< HEAD
+=======
+	<servlet-mapping>
+		<servlet-name>appServlet</servlet-name>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+	
+>>>>>>> cc7c5e3637ca9030049238eef54358f62baf94d0
 	<filter> 
 	    <filter-name>encodingFilter</filter-name> 
 	    <filter-class>org.springframework.web.filter.CharacterEncodingFilter</filter-class> 
@@ -45,6 +53,10 @@
 	 <filter-mapping> 
 	    <filter-name>encodingFilter</filter-name> 
 	    <url-pattern>/*</url-pattern> 
+<<<<<<< HEAD
 	 </filter-mapping> 
+=======
+	 </filter-mapping>
+>>>>>>> cc7c5e3637ca9030049238eef54358f62baf94d0
 
 </web-app>
