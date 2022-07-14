@@ -39,4 +39,49 @@ public class HomeController {
 	public String main() {
 		return "mainPage";
 	}
+	@RequestMapping("/login")
+	public String login() {
+		return "login";
+	}
+	@RequestMapping("/payment")
+	public String payment() {
+		return "payment";
+	}
+	@RequestMapping("/join")
+	public String join() {
+		return "join";
+	}
+	@RequestMapping("/board")
+	public String board() {
+		return "board";
+	}
+	@RequestMapping("/review")
+	public String review() {
+		return "review";
+	}
+	@RequestMapping("/qna")
+	public String qna() {
+		return "QnA";
+	}
+	@RequestMapping("/hotel")
+	public String hotel() {
+		return "hotel";
+	}
+	@RequestMapping("/motel")
+	public String motel() {
+		return "motel";
+	}
+	@RequestMapping("/guesthouse")
+	public String guesthouse() {
+		return "guestHouse";
+	}
+	@RequestMapping("/pension")
+	public String pension() {
+		return "pension";
+	}
+	@RequestMapping("/camping")
+	public String camping() {
+		return "camping";
+	}
+	
 }
