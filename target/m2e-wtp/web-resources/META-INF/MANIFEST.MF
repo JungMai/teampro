@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: atos
 Build-Jdk: 11.0.13
+=======
+Built-By: goott04
+Build-Jdk: 11.0.14
+>>>>>>> e729c498b61e24297bd3a1000f586ed690c90da1
 Created-By: Maven Integration for Eclipse
 
