@@ -10,9 +10,9 @@
 <body>
 
 <h3>메인페이지 입니다.</h3>
-<a href="login">로그인</a> <br />
+<a href="login/loginform">로그인</a> <br />
 <a href="payment">예약/결제</a> <br />
-<a href="join">회원가입</a> <br />
+<a href="join/joinform">회원가입</a> <br />
 <a href="board">게시판</a> <br />
 <a href="review">리뷰</a> <br />
 <a href="qna">Q&A</a> <br />
